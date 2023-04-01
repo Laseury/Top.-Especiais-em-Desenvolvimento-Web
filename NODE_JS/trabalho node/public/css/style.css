@@ -1,0 +1,8 @@
+body{
+    background-color: bisque;
+}
+.aviso_404{
+    font-style: oblique;
+    color: red;
+    text-decoration: bold;
+}
